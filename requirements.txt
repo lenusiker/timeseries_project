@@ -1,0 +1,7 @@
+numpy
+pandas
+sktime
+plotly
+statsmodels
+catboost
+statsforecast
